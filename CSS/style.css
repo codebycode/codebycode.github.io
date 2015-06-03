@@ -1,0 +1,25 @@
+body {
+	background-color: #FAF0E6;
+	color: black;
+}
+div {
+	border: 5px solid black;
+	font-family: "Century Gothic" sans-serif;
+	font-weight: 175;
+	padding: 75px;
+}
+nav {
+	text-align: center;
+}
+nav li {
+	display: inline;
+}
+hr {
+	border-color: black;
+}
+h1 {
+	text-align: center;
+}
+a {
+	color: black;
+}
